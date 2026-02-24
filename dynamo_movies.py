@@ -1,5 +1,5 @@
 # Lab 8 - Jordan Martin
-# CS178 - Lab 8 Starter
+# Version 2
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
